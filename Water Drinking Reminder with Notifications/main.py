@@ -4,7 +4,7 @@ from plyer import notification
 def water_reminder():
     while True:
         notification.notify(
-            title="Water Reminder for Harry",
+            title="Water Reminder for Rahul",
             message="Time to sip some water!",
             timeout=10
         )
